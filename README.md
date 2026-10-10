@@ -139,6 +139,10 @@ ai-incident-response-copilot/
 └── README.md
 ```
 
+## Application Preview
+
+![AI Incident Response Copilot Dashboard](assets/incident-response-dashboard.png)
+
 ## 🚀 Installation and Setup
 
 ### 1. Clone the Repository
